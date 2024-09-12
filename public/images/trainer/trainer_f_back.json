@@ -4,8 +4,8 @@
 			"image": "trainer_f_back.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 100,
-				"h": 100
+				"w": 666,
+				"h": 375
 			},
 			"scale": 1,
 			"frames": [
@@ -14,20 +14,20 @@
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 49,
-						"h": 100
+						"w": 439,
+						"h": 526
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 49,
-						"h": 100
+						"w": 439,
+						"h": 526
 					},
 					"frame": {
 						"x": 0,
 						"y": 0,
-						"w": 49,
-						"h": 100
+						"w": 439,
+						"h": 526
 					}
 				}
 			]
