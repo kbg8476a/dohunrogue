@@ -4,8 +4,8 @@
 			"image": "trainer_m_back.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 666,
-				"h": 376
+				"w": 100,
+				"h": 100
 			},
 			"scale": 1,
 			"frames": [
