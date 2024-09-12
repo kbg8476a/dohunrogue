@@ -14,20 +14,20 @@
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
-						"w": 439,
-						"h": 526
+						"w": 49,
+						"h": 100
 					},
 					"spriteSourceSize": {
 						"x": 0,
 						"y": 0,
-						"w": 439,
-						"h": 526
+						"w": 49,
+						"h": 100
 					},
 					"frame": {
 						"x": 0,
 						"y": 0,
-						"w": 439,
-						"h": 526
+						"w": 49,
+						"h": 100
 					}
 				}
 			]
